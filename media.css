@@ -1,0 +1,59 @@
+@media(min-width: 1200px){
+    .banner-image{
+        height: 400px;
+        margin: 0 auto;
+        display: inline-block;
+    }
+    .contact{
+        width: 92%;
+    }
+    .container{
+        width: 100%;
+        overflow: hidden;
+    }
+}
+@media(max-width: 1199px){
+    .container{
+        display: inline-block;
+    }
+    .banner-image{
+height: 400px;
+width: 100%;
+margin: 0 auto;
+padding: 10px 15px;
+display: inline-block;
+    }
+.para2{
+      width: 100%;
+     margin-left: -90px;
+    display: inline-flex;
+     }
+    .para1{
+         height: 100%;
+        width: 100%;
+        margin-left: -50px;
+            display: inline-block;
+            }
+            .contact{
+                width: 92%;
+            }
+            .send{
+                margin-left: -40px;
+            }
+            .form{
+        
+                max-width: 100px;
+                margin-left: -40px;
+                max-width: 300px;
+            }
+            .text{
+              
+                max-width: 300px;
+            }
+            .btn{
+                margin-left: 20px;
+            }
+            .text1{
+                max-width: 300px;
+            }
+}
